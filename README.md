@@ -1,4 +1,9 @@
 # ofpy
+
+I made a fork of this from https://github.com/n8henrie/ofpy to use as part of my larger effort to get to-do's parsed out of [Obsidian](https://obsidian.md/) into Omnifocus.
+
+---
+
 Command line to OmniFocus script, via email or Dropbox and Hazel
 
 ## Installation
